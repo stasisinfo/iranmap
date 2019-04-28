@@ -51,7 +51,7 @@ var popdata=[
 	},
 	{
 		"ID": "1",
-		"Province": "Azerbaijan_Sharghi",
+		"Province": "Azarbaijan_East",
 		"Population_Forcast_97": "",
 		"Population_95": "3909652",
 		"Area": "45650",
@@ -76,7 +76,7 @@ var popdata=[
 	},
 	{
 		"ID": "2",
-		"Province": "Azerbaijan_Gharbi",
+		"Province": "Azarbaijan_West",
 		"Population_Forcast_97": "",
 		"Population_95": "3265219",
 		"Area": "37411",
@@ -101,7 +101,7 @@ var popdata=[
 	},
 	{
 		"ID": "3",
-		"Province": "Ardebil",
+		"Province": "Ardabil",
 		"Population_Forcast_97": "",
 		"Population_95": "1270420",
 		"Area": "17799",
@@ -126,7 +126,7 @@ var popdata=[
 	},
 	{
 		"ID": "4",
-		"Province": "Isfehan",
+		"Province": "Isfahan",
 		"Population_Forcast_97": "",
 		"Population_95": "5120850",
 		"Area": "107017",
@@ -201,7 +201,7 @@ var popdata=[
 	},
 	{
 		"ID": "7",
-		"Province": "Boushehr",
+		"Province": "Bushehr",
 		"Population_Forcast_97": "",
 		"Population_95": "1163400",
 		"Area": "22742",
@@ -251,7 +251,7 @@ var popdata=[
 	},
 	{
 		"ID": "9",
-		"Province": "Cheharmahal_va_Bakhtiari",
+		"Province": "Chaharmahal_and_Bakhtiari",
 		"Population_Forcast_97": "",
 		"Population_95": "947763",
 		"Area": "16328",
@@ -276,7 +276,7 @@ var popdata=[
 	},
 	{
 		"ID": "10",
-		"Province": "Khorasan_Jonobi",
+		"Province": "Khorasan_South",
 		"Population_Forcast_97": "",
 		"Population_95": "768898",
 		"Area": "95384",
@@ -326,7 +326,7 @@ var popdata=[
 	},
 	{
 		"ID": "12",
-		"Province": "Khorasan_Shomali",
+		"Province": "Khorasan_North",
 		"Population_Forcast_97": "",
 		"Population_95": "863092",
 		"Area": "28434",
@@ -426,7 +426,7 @@ var popdata=[
 	},
 	{
 		"ID": "16",
-		"Province": "Sistan_va_Balouchestan",
+		"Province": "Sistan_and_Baluchestan",
 		"Population_Forcast_97": "",
 		"Population_95": "2775014",
 		"Area": "181785",
@@ -526,7 +526,7 @@ var popdata=[
 	},
 	{
 		"ID": "20",
-		"Province": "Kurdestan",
+		"Province": "Kurdistan",
 		"Population_Forcast_97": "",
 		"Population_95": "1603011",
 		"Area": "29137",
@@ -601,7 +601,7 @@ var popdata=[
 	},
 	{
 		"ID": "23",
-		"Province": "Kohgiluye_va_Buyerahmad",
+		"Province": "Kohgiluye_and_Boyer-Ahmad",
 		"Population_Forcast_97": "",
 		"Population_95": "713052",
 		"Area": "15504",
@@ -701,7 +701,7 @@ var popdata=[
 	},
 	{
 		"ID": "27",
-		"Province": "Mazanderan",
+		"Province": "Mazandaran",
 		"Population_Forcast_97": "",
 		"Population_95": "3283582",
 		"Area": "23842",
